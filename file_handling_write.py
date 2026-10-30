@@ -1,0 +1,5 @@
+file = open("/file link/file name.txt","w")
+print(file.write("hello naresh")
+file.close()
+file = open("/file link/file name.txt","r")
+print(file.read())
