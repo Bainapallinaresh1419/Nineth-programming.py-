@@ -1,0 +1,5 @@
+file = open("/file link/file name.txt","a")
+print(file.apppend(hello naresh"))
+file.close()
+file = open("/file link/file name.txt","r")
+file.close()
